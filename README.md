@@ -1,5 +1,5 @@
 - Hi, I’m @Lapsx.
-- I’m interested in physics, computational neuroscience and the intersection of those two fields.
+- I’m interested in physics, computational neuroscience and the intersection of the two fields.
 - I’m currently learning physics-informed neural networks and computational neuroscience.
 
 <!---
