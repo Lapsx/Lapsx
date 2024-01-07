@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Lapsx
-- 👀 I’m interested in physics, neuroscience, data science, machine learning and where those areas intersect.
-- 🌱 I’m currently learning digital signal processing for neuroscience.
-- 💞️ I’m looking to collaborate on anything data related but mostly neuroscience data.
-- 📫 I can be reached through my email, lucasborbapaes@gmail.com
+- Hi, I’m @Lapsx.
+- I’m interested in physics, computational neuroscience and the intersection of those two fields.
+- I’m currently learning physics-informed neural networks and computational neuroscience.
 
 <!---
 Lapsx/Lapsx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
