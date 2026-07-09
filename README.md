@@ -7,7 +7,7 @@ Bem-vindo ao meu GitHub! Sou um pesquisador atuando na interseção entre a fís
 ### 🔬 Pesquisa Formal & Interesses
 - 🎓 **Física de Polímeros & Termodinâmica (Mestrado):** Desenvolvendo minha dissertação focada em resolver a Equação de Edwards. Utilizo **Physics-Informed Neural Networks (PINNs)** e **Fourier Neural Operators (FNOs)** para criar simulações contínuas, paramétricas e ultra-rápidas do comportamento termodinâmico de polímeros.
 - 🧠 **Neurociência Computacional (Estudo Independente):** Profundo interesse pessoal em modelagem de circuitos neurais. Completei o curso **MIT 9.40 (Introduction to Neural Computation)** e sou um estudante ávido de literatura aplicada (como o livro *"Modeling Neural Circuits Made Simple with Python"*, do Rosenbaum, *"Neuronal Dynamics"*, de Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski, entre outros). Busco ativamente aplicar *Machine Learning* na decodificação de sistemas biológicos.
-- 💻 **Scientific Machine Learning (SciML):** Focado em preencher a lacuna entre *solvers* numéricos clássicos e arquiteturas modernas de Inteligência Artificial para acelerar simulações na física estrutural e biologia.
+- 💻 **Scientific Machine Learning (SciML):** Focado em preencher a lacuna entre *solvers* numéricos clássicos e arquiteturas modernas de Inteligência Artificial para acelerar simulaçõese criar novas formas de inferenia na física estatistica e biologia.
 
 ### 🛠️ Stack Tecnológico
 
